@@ -1,0 +1,83 @@
+MSOA11CD,MSOA11NM,CEZ,category
+E02000908,Waltham Forest 014,Blackhorse Lane,CEZ 2022
+E02000624,Lambeth 007,Brixton,CEZ 2018
+E02000626,Lambeth 009,Brixton,CEZ 2018
+E02000627,Lambeth 010,Brixton,CEZ 2018
+E02000628,Lambeth 011,Brixton,CEZ 2018
+E02000632,Lambeth 015,Brixton,CEZ 2018
+E02000633,Lambeth 016,Brixton,CEZ 2018
+E02000635,Lambeth 018,Brixton,CEZ 2018
+E02000637,Lambeth 020,Brixton,CEZ 2018
+E02000212,Croydon 019,Croydon (core),CEZ 2018
+E02000213,Croydon 020,Croydon (core),CEZ 2018
+E02000215,Croydon 022,Croydon (core),CEZ 2018
+E02000216,Croydon 023,Croydon (core),CEZ 2018
+E02000217,Croydon 024,Croydon (core),CEZ 2018
+E02000220,Croydon 027,Croydon (core),CEZ 2018
+E02000200,Croydon 007,Croydon (South Norwood),CEZ 2018
+E02000201,Croydon 008,Croydon (South Norwood),CEZ 2018
+E02000207,Croydon 014,Croydon (South Norwood),CEZ 2018
+E02006788,Croydon 045,Croydon (South Norwood),CEZ 2018
+E02000653,Lewisham 001,Deptford & New Cross,CEZ 2018
+E02000654,Lewisham 002,Deptford & New Cross,CEZ 2018
+E02000655,Lewisham 003,Deptford & New Cross,CEZ 2018
+E02000657,Lewisham 005,Deptford & New Cross,CEZ 2018
+E02000658,Lewisham 006,Deptford & New Cross,CEZ 2018
+E02006798,Lewisham 039,Deptford & New Cross,CEZ 2018
+E02000373,Hammersmith and Fulham 002,Hammersmith & Fulham,CEZ 2022
+E02000375,Hammersmith and Fulham 004,Hammersmith & Fulham,CEZ 2022
+E02000376,Hammersmith and Fulham 005,Hammersmith & Fulham,CEZ 2022
+E02000378,Hammersmith and Fulham 007,Hammersmith & Fulham,CEZ 2022
+E02000381,Hammersmith and Fulham 010,Hammersmith & Fulham,CEZ 2022
+E02000383,Hammersmith and Fulham 012,Hammersmith & Fulham,CEZ 2022
+E02000385,Hammersmith and Fulham 014,Hammersmith & Fulham,CEZ 2022
+E02000386,Hammersmith and Fulham 015,Hammersmith & Fulham,CEZ 2022
+E02000579,Kensington and Chelsea 003,Hammersmith & Fulham,CEZ 2022
+E02000581,Kensington and Chelsea 005,Hammersmith & Fulham,CEZ 2022
+E02000583,Kensington and Chelsea 007,Hammersmith & Fulham,CEZ 2022
+E02000585,Kensington and Chelsea 009,Hammersmith & Fulham,CEZ 2022
+E02000591,Kensington and Chelsea 015,Hammersmith & Fulham,CEZ 2022
+E02000593,Kensington and Chelsea 017,Hammersmith & Fulham,CEZ 2022
+E02000528,Hounslow 003,Hounslow,CEZ 2018
+E02000531,Hounslow 006,Hounslow,CEZ 2018
+E02000534,Hounslow 009,Hounslow,CEZ 2018
+E02006792,Hounslow 029,Hounslow,CEZ 2018
+E02000362,Hackney 018,Hackney Wick & Fish Island,CEZ 2018
+E02000864,Tower Hamlets 001,Hackney Wick & Fish Island,CEZ 2018
+E02000867,Tower Hamlets 004,Hackney Wick & Fish Island,CEZ 2018
+E02000252,Ealing 015,Park Royal (core),CEZ 2022
+E02000119,Brent 027,Park Royal (secondary),CEZ 2022
+E02000372,Hammersmith and Fulham 001,Park Royal (secondary),CEZ 2022
+E02000825,Southwark 019,Peckham & Camberwell,comparator
+E02000826,Southwark 020,Peckham & Camberwell,comparator
+E02000827,Southwark 021,Peckham & Camberwell,comparator
+E02000828,Southwark 022,Peckham & Camberwell,comparator
+E02000829,Southwark 023,Peckham & Camberwell,comparator
+E02000830,Southwark 024,Peckham & Camberwell,comparator
+E02000831,Southwark 025,Peckham & Camberwell,comparator
+E02000398,Haringey 002,Tottenham,CEZ 2018
+E02000407,Haringey 011,Tottenham,CEZ 2018
+E02000408,Haringey 012,Tottenham,CEZ 2018
+E02000411,Haringey 015,Tottenham,CEZ 2018
+E02000414,Haringey 018,Tottenham,CEZ 2018
+E02000420,Haringey 024,Tottenham,CEZ 2018
+E02000421,Haringey 025,Tottenham,CEZ 2018
+E02000422,Haringey 026,Tottenham,CEZ 2018
+E02000425,Haringey 029,Tottenham,CEZ 2018
+E02000428,Haringey 032,Tottenham,CEZ 2018
+E02006794,Haringey 037,Tottenham,CEZ 2018
+E02000016,Barking and Dagenham 015,Barking,comparator
+E02000017,Barking and Dagenham 016,Barking,comparator
+E02000316,Greenwich 004,Woolwich,comparator
+E02000323,Greenwich 011,Woolwich,comparator
+E02000367,Hackney 023,London Fields,comparator
+E02000752,Redbridge 002,Hainault,comparator
+E02000194,Croydon 001,Crystal Palace,comparator
+E02000111,Brent 019,Brent,CEZ 2023
+E02000121,Brent 029,Brent,CEZ 2023
+E02000555,Islington 002,Islington,CEZ 2023
+E02000557,Islington 004,Islington,CEZ 2023
+E02000963,Westminster 004,Harrow Road,CEZ 2023
+E02000964,Westminster 005,Harrow Road,CEZ 2023
+E02000965,Westminster 006,Harrow Road,CEZ 2023
+E02000969,Westminster 010,Harrow Road,CEZ 2023
